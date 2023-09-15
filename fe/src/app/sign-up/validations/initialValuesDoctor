@@ -1,0 +1,11 @@
+export const initialValues = {
+	fullname: '',
+	birthdate: '',
+	gender: '',
+	country: '',
+	phone: '',
+	email: '',
+	password: '',
+	profesionalid: '',
+	nid: '',
+};
